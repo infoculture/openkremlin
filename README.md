@@ -8,6 +8,6 @@ Open Kremlin data / Открытые данные Кремля (Админист
 В папке history/blog - скрипт и данные для сбора информации с blog.kremlin.ru (теперь - blog.da-medvedev.ru)
 включая всю базу данных обращений и сообщений и комментариев.
 
-Полный дамп всей базы находится по адресу - http://hub.opengovdata.ru/dataset/archiveblog_kremlin_ru
+Полный дамп всей базы находится по адресу - http://hubofdata.ru/dataset/blog-medvedev
 
 Далее в данный репозиторий будут добавляться скрипты для извлечения с сайта kremlin.ru
